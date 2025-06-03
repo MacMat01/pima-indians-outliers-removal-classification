@@ -2,6 +2,14 @@ name: pima-indians-env
 channels:
   - conda-forge
   - defaults
+
 dependencies:
   - python
   - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - imbalanced-learn
+  - xgboost
+  - pillow
