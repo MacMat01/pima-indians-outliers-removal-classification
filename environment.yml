@@ -1,0 +1,7 @@
+name: pima-indians-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
